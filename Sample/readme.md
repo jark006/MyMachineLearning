@@ -1,2 +1,0 @@
-#TrainingKandB
-TrainingKandB
