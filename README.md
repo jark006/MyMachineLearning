@@ -1,4 +1,3 @@
-# TrainingKandB
-TrainingKandB
+# My way of machine learning
 
-My way of 
+My way of machine learning
